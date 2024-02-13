@@ -1,0 +1,62 @@
+.bg-container{
+    background-color:white;
+    width:cover;
+    height:100vh;
+}
+.logo-container{
+    display:flex;
+    justify-content: space-between;
+    width:cover;
+    height:90px;
+    border:1px solid black;
+}
+.img-logo{
+    margin:5px;
+    height:80px;
+    width:80px;
+}
+.list>ul{
+    font-size: 20px;
+    display:flex;
+    list-style-type: none;
+}
+.list >ul >li{
+    padding:10px;
+    margin:10px;
+}
+.body{
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    border-radius: 1q;
+    background-color: lightcyan;
+    padding:3px;
+    width:180px;
+    margin:10px;
+}
+.card :hover{
+    cursor: pointer;
+    border:1px solid black;
+}
+.logo{
+    border-radius:2lvi;
+    height:180px;
+    width:100%;
+}
+.button{
+    cursor: pointer;
+    margin:8px;
+    width:80px;
+}
+.S-container{
+display:flex;
+flex-wrap: wrap;
+}
+s.card{
+    background-color: #e62a2a;
+    margin:5px;
+    width:200px;
+    height:400px;
+}
